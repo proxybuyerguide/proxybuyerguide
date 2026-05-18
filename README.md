@@ -1,16 +1,33 @@
-## Hi there 👋
+# ProxyBuyerGuide
 
-<!--
-**proxybuyerguide/proxybuyerguide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ProxyBuyerGuide is an independent proxy comparison website for users researching mobile, residential, datacenter and private proxy providers.
 
-Here are some ideas to get you started:
+Website: https://proxybuyerguide.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What we compare
+
+- Mobile proxies
+- Residential proxies
+- Datacenter proxies
+- Private proxies
+- ISP proxies
+- Proxy infrastructure tools
+
+## Use cases
+
+ProxyBuyerGuide helps users compare proxy providers for:
+
+- Market research
+- SEO monitoring
+- Ad verification
+- Automation workflows
+- Public data research
+- Proxy provider comparison
+
+## Disclosure
+
+ProxyBuyerGuide may earn affiliate commissions from some providers listed on the website. Users should always verify current pricing, terms, limits and allowed use cases directly on the provider website.
+
+## Contact
+
+Email: info@proxybuyerguide.com
