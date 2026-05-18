@@ -13,8 +13,6 @@ Website: https://proxybuyerguide.com/
 - ISP proxies
 - Proxy infrastructure tools
 
-- 
-
 ## Use cases
 
 ProxyBuyerGuide helps users compare proxy providers for:
@@ -34,4 +32,4 @@ Users should always verify current pricing, terms, limits and allowed use cases 
 
 ## Contact
 
-Email: info@proxybuyerguide.comып
+Email: info@proxybuyerguide.com
