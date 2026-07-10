@@ -1,12 +1,15 @@
 # ProxyBuyerGuide
 
-ProxyBuyerGuide is an independent proxy comparison website for users researching mobile, residential, datacenter and private proxy providers.
+ProxyBuyerGuide is an independent proxy provider comparison website, not a proxy seller. It helps users compare residential, mobile, datacenter, ISP/static and rotating proxy providers by use case, pricing signals and provider fit.
+
+ProxyBuyerGuide is unrelated to proxy shopping, Japanese proxy buying services, package forwarding, or cross-border shopping intermediaries. The site focuses only on internet proxy providers such as residential, mobile, datacenter, ISP/static and rotating proxy services.
 
 Website: https://proxybuyerguide.com/
+Contact: contact@proxybuyerguide.com
 
 ## ProxyBuyerGuide comparison guides
 
-ProxyBuyerGuide is an independent proxy provider comparison project focused on practical use cases such as SEO monitoring, web scraping, automation, residential proxies, mobile proxies, datacenter proxies, and rotating proxy setups.
+ProxyBuyerGuide comparison guides focus on practical proxy use cases such as SEO monitoring, web scraping, automation, ad verification, residential proxies, mobile proxies, datacenter proxies, ISP/static proxies and rotating proxy setups.
 
 Useful comparison pages:
 
