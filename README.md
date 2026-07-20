@@ -54,4 +54,4 @@ Users should always verify current pricing, terms, limits and allowed use cases 
 
 ## Contact
 
-Email: info@proxybuyerguide.com
+Email: contact@proxybuyerguide.com
